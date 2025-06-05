@@ -1,5 +1,8 @@
 *** Stripe Payments For WooCommerce by Checkout Plugins Changelog ***
 
+2025-06-05 - version 1.11.1
+* Fixed - Resolved an issue where the Stripe library failed to load.
+
 2025-06-05 - version 1.11.0
 * Added - Upgraded stripe library version to 15.5.0
 * Fixed - Order stock was getting reduced multiple times
